@@ -1,13 +1,17 @@
 # Olá, eu sou a Giovanna! 👋
-
 Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar soluções completas, atuando desde a prototipagem e desenvolvimento de interfaces mobile/web até a estruturação e implementação do back-end.
+
+<div align="center">
+  <img src="https://github.com/Gigii55/Gigii55/blob/main/space.gif?raw=true" alt="Banner Paisagem" width="100%" height="300" style="object-fit: cover;"/>
+</div>
+
+<br>
 
 ---
 
-<div align="left">
-<img align="right" height="180" src="https://github.com/Gigii55/Gigii55/blob/main/GIF%20GATO.gif?raw=true" alt="gato" />
-
 ## 🚀 Sobre mim
+
+<img align="right" height="180" src="https://github.com/Gigii55/Gigii55/blob/main/GIF%20GATO.gif?raw=true" alt="Gato animado" />
 
 - 🎓 Estudante de Engenharia de Software e Técnica em Informática.
 - 💻 Atuo no desenvolvimento de variados tipos de sistemas, do back-end a interfaces web.
@@ -15,8 +19,8 @@ Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar so
 - 🛠️ Tenho prática com design de interfaces (Figma) e controle de versão (Git/GitHub).
 - 📚 Participo do desenvolvimento de projetos práticos, focados em gestão de serviços e automação.
 
-</div>
-<br>
+<br clear="all">
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
