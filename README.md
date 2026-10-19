@@ -1,16 +1,14 @@
 # Olá, eu sou a Giovanna! 👋
 
-Estudante de Engenharia de Software no IFPR Campus Paranavaí. Sou apaixonada por criar soluções completas, atuando desde a prototipagem e desenvolvimento de interfaces mobile/web até a estruturação e implementação do back-end.
+Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar soluções completas, atuando desde a prototipagem e desenvolvimento de interfaces mobile/web até a estruturação e implementação do back-end.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Graduanda em Engenharia de Software e Técnica em Informática.
-- 💻 Desenvolvo sistemas robustos com **Java (Spring Boot)** e **Python (Django)**.
-- 📱 Crio aplicativos cross-platform fluidos utilizando **Flutter** e **Dart**.
-- 🎨 Experiência prática em design de interfaces (Figma) e controle de versão (Git/GitHub).
-- 🧪 Desenvolvedora de projetos de impacto, como plataformas de gestão de serviços e sistemas de gerenciamento laboratorial.
+- Graduanda em Engenharia de Software e Técnica em Informática.
+- Desenvolvo variados tipos de sistemas.
+- Crio aplicativos utilizando **Flutter** e **Dart**.
 
 ---
 
