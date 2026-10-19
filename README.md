@@ -11,7 +11,7 @@ Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar so
 
 ## 🚀 Sobre mim
 
-<img align="right" height="180" src="https://github.com/Gigii55/Gigii55/blob/main/GIF%20GATO.gif?raw=true" alt="Gato animado" />
+<img align="right" height="140" src="https://github.com/Gigii55/Gigii55/blob/main/GIF%20GATO.gif?raw=true" alt="Gato animado" />
 
 - 🎓 Estudante de Engenharia de Software e Técnica em Informática.
 - 💻 Atuo no desenvolvimento de variados tipos de sistemas, do back-end a interfaces web.
