@@ -6,10 +6,11 @@ Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar so
 
 ## 🚀 Sobre mim
 
-- Graduanda em Engenharia de Software e Técnica em Informática.
-- Desenvolvo variados tipos de sistemas.
-- Crio aplicativos utilizando **Flutter** e **Dart**.
-
+- 🎓 Estudante de Engenharia de Software e Técnica em Informática.
+- 💻 Atuo no desenvolvimento de variados tipos de sistemas, do back-end a interfaces web.
+- 📱 Crio aplicativos utilizando Flutter, Dart e bancos de dados locais.
+- 🛠️ Tenho prática com design de interfaces (Figma) e controle de versão (Git/GitHub).
+- 📚 Participo do desenvolvimento de projetos práticos, focados em gestão de serviços e automação.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -29,6 +30,8 @@ Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar so
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Infraestrutura & Base
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
