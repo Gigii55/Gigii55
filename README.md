@@ -4,6 +4,9 @@ Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar so
 
 ---
 
+<div align="left">
+<img align="right" height="180" src="https://github.com/Gigii55/Gigii55/blob/main/GIF%20GATO.gif?raw=true" alt="gato" />
+
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software e Técnica em Informática.
@@ -11,6 +14,9 @@ Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar so
 - 📱 Crio aplicativos utilizando Flutter, Dart e bancos de dados locais.
 - 🛠️ Tenho prática com design de interfaces (Figma) e controle de versão (Git/GitHub).
 - 📚 Participo do desenvolvimento de projetos práticos, focados em gestão de serviços e automação.
+
+</div>
+<br>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
