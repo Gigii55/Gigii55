@@ -47,3 +47,7 @@ Estudante de Engenharia de Software no IFPR Campus Paranavaí. Gosto de criar so
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gigii55&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigii55&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+
+---
+
+> *"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende."* — Leonardo da Vinci
